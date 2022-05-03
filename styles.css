@@ -1,0 +1,10 @@
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+  }
+
+.mapboxgl-ctrl-geocoder .mapboxgl-ctrl  {
+  margin-right: 150% !important;
+}
